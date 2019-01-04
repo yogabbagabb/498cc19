@@ -6,3 +6,11 @@ description: >-
 
 # Welcome
 
+I am going to test this math.
+
+A block of math
+
+
+
+$$a^2 + b^2 = c^2$$
+
