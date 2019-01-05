@@ -1,7 +1,7 @@
 ---
 description: >-
-  This is textbook for the material presented in UIUC's CS 498 Algorithms for
-  Big Data.
+  This is an open source textbook for the material taught in UIUC's CS 498
+  Algorithms for Big Data, which will run this Spring 2019.
 ---
 
 # Welcome
